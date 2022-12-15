@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiVasilyev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiVasilyev&layout=compact)](https://github.com/SergeiVasilyev/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeiVasilyev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SergeiVasilyev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeiVasilyev&count_private=true&show_icons=true)](https://github.com/SergeiVasilyev/github-readme-stats)
 
 
 
